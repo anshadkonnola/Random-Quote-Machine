@@ -1,0 +1,72 @@
+body {
+  background-color: #970052;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+footer {
+  text-align: center;
+  display: block;
+  color: white;
+  margin: 15px auto 30px auto;
+  font-size: 0.8em;
+}
+footer a {
+  font-weight: 500;
+  text-decoration: none;
+  color: #fff;
+}
+
+.quote-box {
+  margin: auto;
+  margin-top: 150px;
+border-radius: 3px;
+position: relative;
+width: 450px;
+padding: 40px 50px;
+display: table;
+background-color: #fff;
+  
+}
+.quote {
+  text-align: center;
+width: 450px;
+  margin-top: 50px;
+height: auto;
+clear: both;
+font-weight: 500;
+font-size: 1.75em;
+}
+
+.author {
+  width: 450px;
+height: auto;
+clear: both;
+padding-top: 20px;
+font-size: 1em;
+text-align: right;
+
+}
+.buttons {
+  width: 450px;
+margin: auto;
+display: block;
+  list-style: none;
+}
+
+.button {
+  height: 38px;
+border: none;
+border-radius: 3px;
+color: #fff;
+outline: none;
+font-size: 0.85em;
+padding: 8px 18px 6px 18px;
+margin-top: 30px;
+opacity: 1;
+cursor: pointer;
+  margin-left: 3px;
+}
+
+#new-quote {
+  margin-left: 55%;
+}
